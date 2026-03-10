@@ -1,5 +1,3 @@
-# PW_DataAnalyst-
-This Repository is used for Assignement of PWskills 
 # PW_DataAnalyst
 
 This repository contains my assignments and practice work from PwSkills.
